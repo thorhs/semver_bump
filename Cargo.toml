@@ -1,0 +1,13 @@
+[package]
+name = "semver_bump"
+version = "1.0.0"
+authors = ["Þórhallur Sverrisson <thorhallur.sverrisson@rb.is>"]
+edition = "2018"
+description = "SemVer version bumper tool"
+license = "MIT"
+repository = "https://github.com/thorhs/semver-bump"
+keywords = ["semver"]
+categories = ["command-line-utilities","development-tools","value-formatting"]
+
+[dependencies]
+semver = "0.11.0"
