@@ -1,4 +1,4 @@
-# semver_bump
+# semver_bump [![Build Status](https://travis-ci.com/thorhs/semver_bump.svg?branch=master)](https://travis-ci.com/thorhs/semver_bump)
 
 SemVer version bumper tool
 
